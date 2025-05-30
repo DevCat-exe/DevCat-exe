@@ -1,12 +1,6 @@
-<h1 align="center">Hi, I'm DevCat :3</h1>
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+DevCat;I+make+weird+and+useful+stuff;Scroll+down+and+see+for+yourself!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+DevCat+%3A3;i+am+just+a+silly+wittle+coder+cat;See+for+yourself+%3A3" alt="Typing SVG" />
 </h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devcat-exe/devcat-exe/main/banner.png" alt="Terminal Banner" width="100%">
-</p>
 
 <p align="center">
   <i>A random student making random things.</i><br>
@@ -28,24 +22,12 @@
 
 ## 🧰 Tech Stack
 
-<table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>JavaScript, TypeScript, Python, C#, HTML/CSS</td>
-  </tr>
-  <tr>
-    <td><strong>Frameworks</strong></td>
-    <td>React, Node.js, Flask, Flutter, Godot</td>
-  </tr>
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td>Git, Docker, Figma, Firebase, MongoDB</td>
-  </tr>
-  <tr>
-    <td><strong>Special</strong></td>
-    <td>Pen-testing, Web scraping, CLI tools, Custom UIs</td>
-  </tr>
-</table>
+```
+Languages:   JavaScript · TypeScript · Python · C# · HTML/CSS
+Frameworks:  React · Node.js · Flask · Flutter · Godot
+Tools:       Git · Docker · Figma · Firebase · MongoDB
+Special:     Pen-testing · Web scraping · CLI tools · Custom UIs
+```
 
 ---
 
