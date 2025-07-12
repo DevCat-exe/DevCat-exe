@@ -45,13 +45,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 </p>
 
 ### 🧪 Special
 <p>
-  <img src="https://img.shields.io/badge/Pen--testing-8E44AD?style=flat&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Scraping-00BFFF?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/CLI%20Tools-555555?style=flat&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Custom%20UIs-FF69B4?style=flat&logo=figma&logoColor=white" />
 </p>
