@@ -42,8 +42,11 @@
 ---
 
 ## 🌐 personal website
-
-👉 https://www.devcat.zone.id/
+<p>
+  <a href="https://www.devcat.zone.id/">
+    <img src="https://img.shields.io/badge/Website-devcat.zone.id-F97316?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -66,13 +69,17 @@
 ## 📫 contact the cat
 
 <p align="center">
-  <a href="mailto:devcat@zone.id">
-    <img src="https://img.shields.io/badge/Email-devcat@zone.id-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/DevCat-exe">
+    <img src="https://img.shields.io/badge/GitHub-DevCat--exe-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:mahir.daiyan9011@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-devcat.exe@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-mahir.daiyan9011@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/devcat_exe">
+    <img src="https://img.shields.io/badge/Discord-devcat_exe-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
+
 
 <p align="center">
   <i>meow. thanks for visiting. :3</i>
