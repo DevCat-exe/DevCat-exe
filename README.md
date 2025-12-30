@@ -14,33 +14,25 @@
 
 ## 🐱 who dis
 
-- makes games, apps & tools  
+- builds games, apps & small tools  
 - likes dark, minimal UI  
 - learns by breaking & fixing  
-- powered by curiosity + caffeine  
+- curiosity-driven, caffeine-powered  
 
 ---
 
-## 🐈‍⬛ cat mascot
+## 🐈 animated mascot
 
-/_/\
-( o.o ) < beep boop i hack
-
-^ <
-
-bash
-Copy code
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="160" />
+</p>
 
 <details>
-<summary>🐾 secret cat log</summary>
+<summary>👀 secret terminal output</summary>
 
-if you are reading this
-you have been blessed by the devcat
-+5 debugging luck
-
-yaml
-Copy code
-
+[ OK ] cat initialized
+[ OK ] hacker mode enabled
+[WARN] motivation unstable
 </details>
 
 ---
@@ -55,50 +47,42 @@ Copy code
 
 ## 📦 project showcase
 
-> a few things i enjoyed making
+> things i actually enjoy making
 
 - 🎵 **PulsePlay**  
   minimal music player experiment  
-  desktop-first, clean UI  
+  clean UI, desktop-first  
 
 - 🎮 **Game Prototypes**  
-  small Godot & Unity experiments  
+  Godot & Unity experiments  
   mechanics, vibes, weird ideas  
 
-- 🛠️ **CLI & Automation Tools**  
+- 🛠️ **CLI & Automation**  
   scripts, helpers, tiny hacks  
   made to solve my own problems  
 
 <details>
-<summary>👀 hidden project hint</summary>
+<summary>🗝️ hidden note</summary>
 
 some projects are private
 some are unfinished
-some are waiting for motivation
-
-yaml
-Copy code
-
+some are waiting for courage
 </details>
 
 ---
 
-## 🧠 github stats (very serious)
+## 🐾 contribution activity (cat approved)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devcat-exe&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F97316&icon_color=FB7185&text_color=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devcat-exe&hide_border=true&background=0D1117&stroke=F97316&ring=FB7185&fire=F97316&currStreakLabel=FB7185&sideLabels=FB7185&dates=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devcat-exe&bg_color=0d1117&color=FB7185&line=F97316&point=ffffff&hide_border=true" />
 </p>
 
 ---
 
-## 🐾 activity graph
+## 🐍 snake eats commits
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devcat-exe&bg_color=0d1117&color=FB7185&line=F97316&point=ffffff&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -115,10 +99,6 @@ Copy code
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 <p align="center">
   <i>meow.</i>
