@@ -3,56 +3,51 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=F97316&center=true&vCenter=true&width=520&lines=hacker+cat+online+%3A3;cute+but+dangerous;games+%7C+apps+%7C+experiments" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=F97316&center=true&vCenter=true&width=520&lines=meow%2C+i+am+devcat+%3A3;cute+and+chaotic+%3Ew%3C;games+%7C+apps+%7C+websites" />
 </p>
 
 <p align="center">
-  <i>student • developer • certified cat 🐾</i>
+  <i>student • developer • artist • silly internet cat 🐾</i>
 </p>
 
 ---
 
-## 🐱 who dis
+## 🐱 about me
 
-- builds games, apps & small tools  
-- likes dark, minimal UI  
-- learns by breaking & fixing  
-- curiosity-driven, caffeine-powered  
+- builds apps & websites  
+- likes dark, clean UI  
+- learns by doing (and breaking)  
+- cats > everything  
 
 ---
+
+## 🧩 tech stack
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="160" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css,react,nodejs,flutter,git,linux,figma&theme=dark" />
 </p>
 
 ---
 
-## 🧩 tech i touch
+## 📦 projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css,react,nodejs,flutter,godot,git,linux,figma&theme=dark" />
-</p>
+- 🛡️ **Quick-Insure**  
+  insurance-related web project  
+  👉 https://github.com/DevCat-exe/Quick-Insure
+
+- 💙 **Care.xyz**  
+  healthcare / service website  
+  👉 https://github.com/DevCat-exe/care-xyz
 
 ---
 
-## 📦 project showcase
+## 🌐 personal website
 
-> things i actually enjoy making
+👉 https://www.devcat.zone.id/
 
-- 🎵 **PulsePlay**  
-  minimal music player experiment  
-  clean UI, desktop-first  
-
-- 🎮 **Game Prototypes**  
-  Godot & Unity experiments  
-  mechanics, vibes, weird ideas  
-
-- 🛠️ **CLI & Automation**  
-  scripts, helpers, tiny hacks  
-  made to solve my own problems  
 ---
 
-## 🐾 contribution activity (cat approved)
+## 🐾 activity heatmap
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devcat-exe&bg_color=0d1117&color=FB7185&line=F97316&point=ffffff&hide_border=true" />
@@ -68,19 +63,17 @@
 
 ---
 
-## 🔗 summon the cat
+## 📫 contact the cat
 
 <p align="center">
-  <a href="https://github.com/devcat-exe">
-    <img src="https://img.shields.io/badge/GitHub-devcat--exe-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="mailto:devcat@zone.id">
+    <img src="https://img.shields.io/badge/Email-devcat@zone.id-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/devcat_exe">
-    <img src="https://img.shields.io/badge/Discord-devcat__exe-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="mailto:mahir.daiyan9011@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-devcat.exe@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <i>meow.</i>
+  <i>meow. thanks for visiting. :3</i>
 </p>
