@@ -21,19 +21,9 @@
 
 ---
 
-## 🐈 animated mascot
-
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="160" />
 </p>
-
-<details>
-<summary>👀 secret terminal output</summary>
-
-[ OK ] cat initialized
-[ OK ] hacker mode enabled
-[WARN] motivation unstable
-</details>
 
 ---
 
@@ -60,15 +50,6 @@
 - 🛠️ **CLI & Automation**  
   scripts, helpers, tiny hacks  
   made to solve my own problems  
-
-<details>
-<summary>🗝️ hidden note</summary>
-
-some projects are private
-some are unfinished
-some are waiting for courage
-</details>
-
 ---
 
 ## 🐾 contribution activity (cat approved)
