@@ -83,10 +83,6 @@ I love learning by building and breaking things, experimenting with code, and ad
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DevCat-exe&layout=compact&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevCat-exe&theme=dark" />
-</p>
-
 ---
 
 ## 🐾 Activity Heatmap
@@ -95,15 +91,6 @@ I love learning by building and breaking things, experimenting with code, and ad
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devcat-exe&bg_color=0d1117&color=FB7185&line=F97316&point=ffffff&hide_border=true" />
 </p>
 
----
-
-## 🐍 Snake Eats Commits
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 ## 📫 Contact Me
 
